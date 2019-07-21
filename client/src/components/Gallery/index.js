@@ -13,7 +13,7 @@ class Gallery extends Component {
           })
     }
     render() {
-        let altImage = 'https://cdn.pixabay.com/photo/2016/03/26/22/21/books-1281581_960_720.jpg';
+        let altImage = 'https://cdn3.iconfinder.com/data/icons/education-flat-icons-shadow/96/18-512.png';
         return (
 
             <div className="book-list-wrapper">
